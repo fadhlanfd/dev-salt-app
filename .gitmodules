@@ -1,0 +1,3 @@
+[submodule "frontend-dev-salt-angular-app/dev-salt-angular-app"]
+	path = frontend-dev-salt-angular-app/dev-salt-angular-app
+	url = https://github.com/fadhlanfd/dev-salt-app.git
